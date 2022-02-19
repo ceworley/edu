@@ -1,3 +1,6 @@
+# xml files get rather large (for importing to LMS)
+.xml
+
 # History files
 .Rhistory
 .Rapp.history
